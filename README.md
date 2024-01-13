@@ -3,7 +3,7 @@
 <head>
     <meta chatset="UTF-8">
     <title>Тест</title>
-<head>
+</head>
 <body>
     <div id="main">
         <h1>Telegram</h1>
