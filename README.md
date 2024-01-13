@@ -1,6 +1,6 @@
 <hmtl lang="ru">
 <head>
-    <meta chatset="UTF-8">
+    <meta charset="UTF-8">
     <title>Тест</title>
 </head>
 <body>
