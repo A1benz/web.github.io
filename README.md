@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <hmtl lang="ru">
 <head>
     <meta chatset="UTF-8">
