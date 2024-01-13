@@ -8,6 +8,6 @@
         <h1>Telegram</h1>
         <p> Test Web Telegram </p>
         <button id="buy"> Buy </button>
-
+    </div>
 </body>
 </hmtl>
